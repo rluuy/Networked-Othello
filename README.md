@@ -1,1 +1,1 @@
-# csc335-project6-p5-ryanluu52-dennyho
+Networked Othello Game using JavaFX and Java8. 
